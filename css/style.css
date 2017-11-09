@@ -1,0 +1,66 @@
+*{margin: 0px;
+padding: 0px;}
+
+body{font-size: 16px;
+font-family: lato;
+color: #000;}
+
+.header{ width:100%;
+background:url(../images/main.jpg);
+background-size: cover;
+ }
+
+.slidersection{width:100%; }
+#cdc .carousel-inner > .item{background-size: cover;}
+
+
+/* Recipe section css */
+
+.recipe{width: 100%; background-color: rgb(24, 24, 24);}
+.recipe h2{ font-size: 35px; text-align: center; color: #fff; padding: 20px 0;}
+
+.singlerecipe{ margin: 20px 0;}
+.recipeimage{ width: 100%; height: 250px; background-color:rgb(118, 112, 235); }  
+.heading_reci{ font-size: 20px; color: #fff; padding: 15px 0; text-align: center;}
+.sometext{ font-size: 18px; color:burlywood; line-height: 25px; text-align: left;}
+.authorname{ font-size: 16px; color: #fff; padding: 10px 0 20px 0;}
+
+.but_on{ margin: 20px 0; text-align: center; padding: 12px 25px; border-radius: 30px;}
+
+/* Recipe section css */
+
+/* recipe list page */
+.banner-recipe{ width: 100%; height: 400px; background-color:rgb(218, 55, 123);}
+
+/* recipe detail page */
+.recipedetail{width: 100%; background-color: rgb(24, 24, 24);}
+.recipedetail h2{ font-size: 35px; text-align: center; color: #fff; padding: 20px 0;}
+.reciperight{ text-align: left; padding: 20px 0;}
+.reciperight h3{ color: rgb(241, 109, 109); font-size: 23px; line-height: 25px;}
+.reciperight p{ color: #fff; font-size: 18px; line-height: 25px;}
+.reciperight h4{ color: rgb(241, 109, 109); font-size: 16px; line-height: 20px;}
+level{color: #fff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
